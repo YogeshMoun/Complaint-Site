@@ -1,0 +1,60 @@
+*{
+margin:0px;
+padding:0px;
+}
+body{
+	background-image:url('img/back1.jpg');
+	position:fixed;
+	background-attachment:fixed;
+	background-size:cover;
+	font-family:new time roman;
+}
+p{
+	font-size:17px;
+	color:white;
+	margin-left:100px;
+}
+h1{
+font-size:40px;
+color:white;
+margin-top:250px;
+}
+h3{
+	font-size:35px;
+	color:white;
+}
+.fa-pencil-alt{
+	font-size:33px;
+	color:white;
+	float:right;
+	margin-top:15px;
+}
+.col-md-12{
+	margin-top:80px;
+	box-shadow:-1px 1px 60px 10px black;
+	background:rgba(0,0,0,0.4);
+	margin-left:80px;
+}
+.label{
+	font-weight:normal;
+	margin-top:10px;
+	color:white;
+	font-size:18px;
+}
+.form-control{
+	background:transparent;
+	border-radius:5px;
+	border:0px;
+	border-bottom:1px solid white;
+	
+}
+.btn-info{
+	margin-top:20px;
+	font-size:18px;
+	width:320px;
+	margin-left:80px;
+	margin-bottom:20px;
+}
+.ab{
+color:red;
+}
